@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+Language/x64/
+
+Language/.vs/
+
+Language/Language/x64/
