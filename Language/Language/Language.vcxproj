@@ -140,12 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="class\complex\complex.cpp" />
+    <ClCompile Include="keyword\const\const_in_file.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="class\sington\singleton.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="class\complex\complex.h" />
     <ClInclude Include="class\sington\singleton.h" />
+    <ClInclude Include="keyword\const\const_in_file.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
